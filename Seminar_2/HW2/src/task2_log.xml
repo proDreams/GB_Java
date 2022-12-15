@@ -1,0 +1,1444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-14T12:31:30.015906700Z</date>
+  <millis>1671021090015</millis>
+  <nanos>906700</nanos>
+  <sequence>0</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[9, 8, 1, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.032910600Z</date>
+  <millis>1671021090032</millis>
+  <nanos>910600</nanos>
+  <sequence>1</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[8, 9, 1, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.032910600Z</date>
+  <millis>1671021090032</millis>
+  <nanos>910600</nanos>
+  <sequence>1</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[8, 9, 1, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.033910900Z</date>
+  <millis>1671021090033</millis>
+  <nanos>910900</nanos>
+  <sequence>2</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.033910900Z</date>
+  <millis>1671021090033</millis>
+  <nanos>910900</nanos>
+  <sequence>2</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.033910900Z</date>
+  <millis>1671021090033</millis>
+  <nanos>910900</nanos>
+  <sequence>2</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.033910900Z</date>
+  <millis>1671021090033</millis>
+  <nanos>910900</nanos>
+  <sequence>3</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.033910900Z</date>
+  <millis>1671021090033</millis>
+  <nanos>910900</nanos>
+  <sequence>3</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.033910900Z</date>
+  <millis>1671021090033</millis>
+  <nanos>910900</nanos>
+  <sequence>3</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.033910900Z</date>
+  <millis>1671021090033</millis>
+  <nanos>910900</nanos>
+  <sequence>3</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.034911Z</date>
+  <millis>1671021090034</millis>
+  <nanos>911000</nanos>
+  <sequence>4</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.034911Z</date>
+  <millis>1671021090034</millis>
+  <nanos>911000</nanos>
+  <sequence>4</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.034911Z</date>
+  <millis>1671021090034</millis>
+  <nanos>911000</nanos>
+  <sequence>4</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.034911Z</date>
+  <millis>1671021090034</millis>
+  <nanos>911000</nanos>
+  <sequence>4</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.034911Z</date>
+  <millis>1671021090034</millis>
+  <nanos>911000</nanos>
+  <sequence>4</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.034911Z</date>
+  <millis>1671021090034</millis>
+  <nanos>911000</nanos>
+  <sequence>5</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.034911Z</date>
+  <millis>1671021090034</millis>
+  <nanos>911000</nanos>
+  <sequence>5</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.034911Z</date>
+  <millis>1671021090034</millis>
+  <nanos>911000</nanos>
+  <sequence>5</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.034911Z</date>
+  <millis>1671021090034</millis>
+  <nanos>911000</nanos>
+  <sequence>5</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.034911Z</date>
+  <millis>1671021090034</millis>
+  <nanos>911000</nanos>
+  <sequence>5</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.034911Z</date>
+  <millis>1671021090034</millis>
+  <nanos>911000</nanos>
+  <sequence>5</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 9, 8, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>6</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 8, 9, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>6</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 8, 9, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>6</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 8, 9, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>6</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 8, 9, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>6</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 8, 9, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>6</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 8, 9, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>6</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 8, 9, 5, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>7</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 5, 9, 8, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>7</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 5, 9, 8, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>7</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 5, 9, 8, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>7</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 5, 9, 8, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>7</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 5, 9, 8, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>7</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 5, 9, 8, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>7</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 5, 9, 8, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.035911500Z</date>
+  <millis>1671021090035</millis>
+  <nanos>911500</nanos>
+  <sequence>7</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 5, 9, 8, 4]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.036911200Z</date>
+  <millis>1671021090036</millis>
+  <nanos>911200</nanos>
+  <sequence>8</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.036911200Z</date>
+  <millis>1671021090036</millis>
+  <nanos>911200</nanos>
+  <sequence>8</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.036911200Z</date>
+  <millis>1671021090036</millis>
+  <nanos>911200</nanos>
+  <sequence>8</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.036911200Z</date>
+  <millis>1671021090036</millis>
+  <nanos>911200</nanos>
+  <sequence>8</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.036911200Z</date>
+  <millis>1671021090036</millis>
+  <nanos>911200</nanos>
+  <sequence>8</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.036911200Z</date>
+  <millis>1671021090036</millis>
+  <nanos>911200</nanos>
+  <sequence>8</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.036911200Z</date>
+  <millis>1671021090036</millis>
+  <nanos>911200</nanos>
+  <sequence>8</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.036911200Z</date>
+  <millis>1671021090036</millis>
+  <nanos>911200</nanos>
+  <sequence>8</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.036911200Z</date>
+  <millis>1671021090036</millis>
+  <nanos>911200</nanos>
+  <sequence>8</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.037911900Z</date>
+  <millis>1671021090037</millis>
+  <nanos>911900</nanos>
+  <sequence>9</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.037911900Z</date>
+  <millis>1671021090037</millis>
+  <nanos>911900</nanos>
+  <sequence>9</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.037911900Z</date>
+  <millis>1671021090037</millis>
+  <nanos>911900</nanos>
+  <sequence>9</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.037911900Z</date>
+  <millis>1671021090037</millis>
+  <nanos>911900</nanos>
+  <sequence>9</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.037911900Z</date>
+  <millis>1671021090037</millis>
+  <nanos>911900</nanos>
+  <sequence>9</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.037911900Z</date>
+  <millis>1671021090037</millis>
+  <nanos>911900</nanos>
+  <sequence>9</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.037911900Z</date>
+  <millis>1671021090037</millis>
+  <nanos>911900</nanos>
+  <sequence>9</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.037911900Z</date>
+  <millis>1671021090037</millis>
+  <nanos>911900</nanos>
+  <sequence>9</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.037911900Z</date>
+  <millis>1671021090037</millis>
+  <nanos>911900</nanos>
+  <sequence>9</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.037911900Z</date>
+  <millis>1671021090037</millis>
+  <nanos>911900</nanos>
+  <sequence>9</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 9, 8, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 8, 9, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 8, 9, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 8, 9, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 8, 9, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 8, 9, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 8, 9, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 8, 9, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 8, 9, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 8, 9, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 8, 9, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 8, 9, 5]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.038912100Z</date>
+  <millis>1671021090038</millis>
+  <nanos>912100</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.039912Z</date>
+  <millis>1671021090039</millis>
+  <nanos>912000</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 9, 8]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.040912600Z</date>
+  <millis>1671021090040</millis>
+  <nanos>912600</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2022-12-14T12:31:30.041912400Z</date>
+  <millis>1671021090041</millis>
+  <nanos>912400</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>WARNING</level>
+  <class>task2</class>
+  <method>strangeSort</method>
+  <thread>1</thread>
+  <message>[1, 4, 5, 8, 9]</message>
+</record>
+</log>
