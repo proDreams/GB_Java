@@ -47,7 +47,6 @@ public class Task4 {
             for (int i = x; i < board.length; i++) {
                 for (int j = y; j < board[i].length; j++) {
                     board[i][j] = "Q";
-//                    System.out.printf("\n%b i=%d j=%d\n", checkPositions(board, i, j), i, j);
                     if (checkPositions(board, i, j)) {
                         int[] current = new int[2];
                         current[0] = i;
@@ -57,7 +56,6 @@ public class Task4 {
                     } else {
                         board[i][j] = ".";
                     }
-
                 }
             }
             if (positions.size() < 7) {
@@ -80,7 +78,6 @@ public class Task4 {
             }
         }
     }
-
 
     private static boolean checkPositions(String[][] board, int row, int col) {
         for (int i = 1; i < board.length; i++) {
